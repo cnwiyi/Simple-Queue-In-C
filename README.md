@@ -1,10 +1,10 @@
 # Queue in C
 ## Run
-gcc queue_c.c -o queue -Wall -pthread
+gcc queue.c -o queue -Wall -pthread
 ./queue
 
 ## To Kill
 Ctrl+C 
 
 ## Simple queue implementation/program in C
-Implemeted with thread for something else (overkill for this program but will update version to make interactive/a game).
+Implemeted with thread for smiluation of students queuing in line to be processed. This simple program just shows the queue data structure in c. 
